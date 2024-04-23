@@ -1,0 +1,26 @@
+.navbar{
+    background: gray;
+    border-radius: 20px;
+}
+
+.navbar ul{
+    overflow: auto;
+    margin-left: 800px;
+}
+
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 19px 20px;
+} 
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: #fff;
+    font-family: "poppins", sans-serif;
+    font-weight: 750;
+    font-size: 16px;
+}
+.navbar .Login h1{
+    text-align: right;
+}
